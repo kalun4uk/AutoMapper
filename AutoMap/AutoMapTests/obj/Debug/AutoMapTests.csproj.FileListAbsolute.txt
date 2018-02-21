@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\Нова папка\AutoMap\AutoMapTests\bin\Debug\AutoMapTests.dll
+C:\Users\user\Desktop\Нова папка\AutoMap\AutoMapTests\bin\Debug\AutoMapTests.pdb
+C:\Users\user\Desktop\Нова папка\AutoMap\AutoMapTests\bin\Debug\AutoMap.dll
+C:\Users\user\Desktop\Нова папка\AutoMap\AutoMapTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\user\Desktop\Нова папка\AutoMap\AutoMapTests\bin\Debug\AutoMap.pdb
+C:\Users\user\Desktop\Нова папка\AutoMap\AutoMapTests\obj\Debug\AutoMapTests.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Нова папка\AutoMap\AutoMapTests\obj\Debug\AutoMapTests.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Нова папка\AutoMap\AutoMapTests\obj\Debug\AutoMapTests.dll
+C:\Users\user\Desktop\Нова папка\AutoMap\AutoMapTests\obj\Debug\AutoMapTests.pdb
+C:\Users\Юрій\Desktop\AutoMap\AutoMapTests\bin\Debug\AutoMapTests.dll
+C:\Users\Юрій\Desktop\AutoMap\AutoMapTests\bin\Debug\AutoMapTests.pdb
+C:\Users\Юрій\Desktop\AutoMap\AutoMapTests\bin\Debug\AutoMap.dll
+C:\Users\Юрій\Desktop\AutoMap\AutoMapTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Юрій\Desktop\AutoMap\AutoMapTests\bin\Debug\AutoMap.pdb
+C:\Users\Юрій\Desktop\AutoMap\AutoMapTests\obj\Debug\AutoMapTests.csprojResolveAssemblyReference.cache
+C:\Users\Юрій\Desktop\AutoMap\AutoMapTests\obj\Debug\AutoMapTests.dll
+C:\Users\Юрій\Desktop\AutoMap\AutoMapTests\obj\Debug\AutoMapTests.pdb

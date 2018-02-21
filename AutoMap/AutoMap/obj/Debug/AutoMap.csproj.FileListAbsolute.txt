@@ -1,0 +1,16 @@
+c:\users\юрій\documents\visual studio 2015\Projects\AutoMap\AutoMap\bin\Debug\AutoMap.dll
+c:\users\юрій\documents\visual studio 2015\Projects\AutoMap\AutoMap\bin\Debug\AutoMap.pdb
+c:\users\юрій\documents\visual studio 2015\Projects\AutoMap\AutoMap\obj\Debug\AutoMap.csprojResolveAssemblyReference.cache
+c:\users\юрій\documents\visual studio 2015\Projects\AutoMap\AutoMap\obj\Debug\AutoMap.dll
+c:\users\юрій\documents\visual studio 2015\Projects\AutoMap\AutoMap\obj\Debug\AutoMap.pdb
+C:\Users\user\Desktop\Нова папка\AutoMap\AutoMap\bin\Debug\AutoMap.dll
+C:\Users\user\Desktop\Нова папка\AutoMap\AutoMap\bin\Debug\AutoMap.pdb
+C:\Users\user\Desktop\Нова папка\AutoMap\AutoMap\obj\Debug\AutoMap.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Нова папка\AutoMap\AutoMap\obj\Debug\AutoMap.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Нова папка\AutoMap\AutoMap\obj\Debug\AutoMap.dll
+C:\Users\user\Desktop\Нова папка\AutoMap\AutoMap\obj\Debug\AutoMap.pdb
+C:\Users\Юрій\Desktop\AutoMap\AutoMap\bin\Debug\AutoMap.dll
+C:\Users\Юрій\Desktop\AutoMap\AutoMap\bin\Debug\AutoMap.pdb
+C:\Users\Юрій\Desktop\AutoMap\AutoMap\obj\Debug\AutoMap.csprojResolveAssemblyReference.cache
+C:\Users\Юрій\Desktop\AutoMap\AutoMap\obj\Debug\AutoMap.dll
+C:\Users\Юрій\Desktop\AutoMap\AutoMap\obj\Debug\AutoMap.pdb
